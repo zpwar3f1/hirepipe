@@ -1,0 +1,21 @@
+{
+  "submission_id": "jf_001",
+  "submitted_at": "2026-05-22T09:00:00",
+  "first_name": "Marcus",
+  "last_name": "Johnson",
+  "email": "marcus.johnson@example.com",
+  "phone": "+15555550100",
+  "role_applying_for": "driver",
+  "license_photo_path": "data/applications/jf_001_license.jpg",
+  "answers": {
+    "saturdays": "yes",
+    "drug_screen": "yes",
+    "transportation": "yes",
+    "age": "32",
+    "license_valid": "yes",
+    "years_experience": "8 years of professional driving and moving experience, both local and long-haul",
+    "can_lift_75lbs": "yes",
+    "state": "TX",
+    "why_us": "I've worked with two other moving companies in Austin and want to work somewhere with better insurance and equipment."
+  }
+}

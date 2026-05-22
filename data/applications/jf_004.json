@@ -1,0 +1,20 @@
+{
+  "submission_id": "jf_004",
+  "submitted_at": "2026-05-22T09:00:00",
+  "first_name": "Pat",
+  "last_name": "Nguyen",
+  "email": "pat.nguyen@example.com",
+  "phone": "+15555550100",
+  "role_applying_for": "mover",
+  "license_photo_path": "data/applications/jf_004_license.jpg",
+  "answers": {
+    "saturdays": "no",
+    "drug_screen": "yes",
+    "transportation": "yes",
+    "age": "24",
+    "years_experience": "1 year, mostly retail",
+    "can_lift_75lbs": "no",
+    "state": "TX",
+    "why_us": "Looking for a change"
+  }
+}

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Demo outputs (regenerated)
+data/output/
+
+# Secrets
+.env
+ANTHROPIC_API_KEY
+twilio_*.txt
+gmail_credentials.json

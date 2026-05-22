@@ -1,0 +1,21 @@
+{
+  "submission_id": "jf_003",
+  "submitted_at": "2026-05-22T09:00:00",
+  "first_name": "Jordan",
+  "last_name": "Lee",
+  "email": "jordan.lee@example.com",
+  "phone": "+15555550100",
+  "role_applying_for": "driver",
+  "license_photo_path": "data/applications/jf_003_license.jpg",
+  "answers": {
+    "saturdays": "no",
+    "drug_screen": "yes",
+    "transportation": "yes",
+    "age": "29",
+    "license_valid": "yes",
+    "years_experience": "5 years",
+    "can_lift_75lbs": "yes",
+    "state": "TX",
+    "why_us": "Looking for steady weekday work"
+  }
+}

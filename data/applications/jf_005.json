@@ -1,0 +1,21 @@
+{
+  "submission_id": "jf_005",
+  "submitted_at": "2026-05-22T09:00:00",
+  "first_name": "Diane",
+  "last_name": "Carter",
+  "email": "diane.carter@example.com",
+  "phone": "+15555550100",
+  "role_applying_for": "driver",
+  "license_photo_path": "data/applications/jf_005_license.jpg",
+  "answers": {
+    "saturdays": "yes",
+    "drug_screen": "yes",
+    "transportation": "yes",
+    "age": "35",
+    "license_valid": "yes",
+    "years_experience": "12 years driving, 4 years at a moving company in Houston",
+    "can_lift_75lbs": "yes",
+    "state": "TX",
+    "why_us": "Relocating to Austin and looking for a longer-term position with a team I respect."
+  }
+}

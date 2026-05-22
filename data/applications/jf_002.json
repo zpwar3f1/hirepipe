@@ -1,0 +1,20 @@
+{
+  "submission_id": "jf_002",
+  "submitted_at": "2026-05-22T09:00:00",
+  "first_name": "Aisha",
+  "last_name": "Patel",
+  "email": "aisha.patel@example.com",
+  "phone": "+15555550100",
+  "role_applying_for": "mover",
+  "license_photo_path": "data/applications/jf_002_license.jpg",
+  "answers": {
+    "saturdays": "yes",
+    "drug_screen": "yes",
+    "transportation": "yes",
+    "age": "26",
+    "years_experience": "3 years on a moving crew plus warehouse work before that",
+    "can_lift_75lbs": "yes",
+    "state": "TX",
+    "why_us": "I want consistent hours and a team that takes care of equipment. The reviews suggested FCM does both."
+  }
+}

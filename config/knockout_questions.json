@@ -1,0 +1,9 @@
+{
+  "knockouts": [
+    {"id": "saturdays", "question": "Can you work Saturdays?", "fail_on": ["no", "n", "false"]},
+    {"id": "drug_screen", "question": "Can you pass a standard drug screen?", "fail_on": ["no", "n", "false"]},
+    {"id": "transportation", "question": "Do you have reliable transportation to our facility?", "fail_on": ["no", "n", "false"]},
+    {"id": "age", "question": "Are you 21 or older?", "fail_on": ["no", "n", "false"]},
+    {"id": "license_valid", "question": "Is your driver's license valid in this state?", "fail_on": ["no", "n", "false"], "role_specific": ["driver"]}
+  ]
+}

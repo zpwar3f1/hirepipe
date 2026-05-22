@@ -1,0 +1,14 @@
+{
+  "min_score_per_axis": 8,
+  "axes": ["experience", "availability", "professionalism", "physical_capability"],
+  "role_specific": {
+    "driver": {
+      "requires_license_valid": true,
+      "min_age": 21
+    },
+    "mover": {
+      "requires_license_valid": false,
+      "min_age": 18
+    }
+  }
+}
