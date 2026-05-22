@@ -109,9 +109,17 @@ hirepipe/
     test_reminders.py
 ```
 
-## Run the demo
+## Quick start (one click)
+
+- **Windows**: double-click `start.bat`
+- **Mac / Linux**: `chmod +x start.sh && ./start.sh`
+
+Creates a virtual env, installs deps, generates 5 mock applications, runs all 4 scenarios end-to-end.
+
+## Manual run
 
 ```powershell
+python -m pip install -r requirements.txt
 python scripts\seed_applications.py
 python scripts\run_pipeline.py
 ```
